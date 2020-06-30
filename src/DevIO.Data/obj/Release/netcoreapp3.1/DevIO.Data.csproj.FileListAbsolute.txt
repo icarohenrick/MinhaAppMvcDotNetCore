@@ -1,0 +1,12 @@
+C:\Users\mazza\Documents\Estudos\Desenvolvedor.IO\AspNetCore\MinhaAppMvcCompleta\src\DevIO.Data\bin\Release\netcoreapp3.1\DevIO.Data.deps.json
+C:\Users\mazza\Documents\Estudos\Desenvolvedor.IO\AspNetCore\MinhaAppMvcCompleta\src\DevIO.Data\bin\Release\netcoreapp3.1\DevIO.Data.dll
+C:\Users\mazza\Documents\Estudos\Desenvolvedor.IO\AspNetCore\MinhaAppMvcCompleta\src\DevIO.Data\bin\Release\netcoreapp3.1\DevIO.Data.pdb
+C:\Users\mazza\Documents\Estudos\Desenvolvedor.IO\AspNetCore\MinhaAppMvcCompleta\src\DevIO.Data\bin\Release\netcoreapp3.1\DevIO.Business.dll
+C:\Users\mazza\Documents\Estudos\Desenvolvedor.IO\AspNetCore\MinhaAppMvcCompleta\src\DevIO.Data\bin\Release\netcoreapp3.1\DevIO.Business.pdb
+C:\Users\mazza\Documents\Estudos\Desenvolvedor.IO\AspNetCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Release\netcoreapp3.1\DevIO.Data.csprojAssemblyReference.cache
+C:\Users\mazza\Documents\Estudos\Desenvolvedor.IO\AspNetCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Release\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\mazza\Documents\Estudos\Desenvolvedor.IO\AspNetCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Release\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+C:\Users\mazza\Documents\Estudos\Desenvolvedor.IO\AspNetCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Release\netcoreapp3.1\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Users\mazza\Documents\Estudos\Desenvolvedor.IO\AspNetCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Release\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+C:\Users\mazza\Documents\Estudos\Desenvolvedor.IO\AspNetCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Release\netcoreapp3.1\DevIO.Data.dll
+C:\Users\mazza\Documents\Estudos\Desenvolvedor.IO\AspNetCore\MinhaAppMvcCompleta\src\DevIO.Data\obj\Release\netcoreapp3.1\DevIO.Data.pdb

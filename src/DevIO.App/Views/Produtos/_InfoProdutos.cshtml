@@ -1,0 +1,40 @@
+﻿@model DevIO.App.ViewModels.ProdutoViewModel
+
+<dl>
+    <dt>
+        @Html.DisplayNameFor(model => model.FornecedorId)
+    </dt>
+    <dd>
+        @Html.DisplayFor(model => model.Fornecedor.Nome)
+    </dd>
+    <dt>
+        @Html.DisplayNameFor(model => model.Nome)
+    </dt>
+    <dd>
+        @Html.DisplayFor(model => model.Nome)
+    </dd>
+    <dt>
+        @Html.DisplayNameFor(model => model.Descricao)
+    </dt>
+    <dd>
+        @Html.DisplayFor(model => model.Descricao)
+    </dd>
+    <dt>
+        @Html.DisplayNameFor(model => model.Valor)
+    </dt>
+    <dd>
+        @Model.Valor.ToString("C")
+    </dd>
+    <dt>
+        @Html.DisplayNameFor(model => model.DataCadastro)
+    </dt>
+    <dd>
+        @Html.DisplayFor(model => model.DataCadastro)
+    </dd>
+    <dt>
+        @Html.DisplayNameFor(model => model.Ativo)
+    </dt>
+    <dd>
+        @Html.DisplayFor(model => model.Fornecedor.Ativo)
+    </dd>
+</dl>
